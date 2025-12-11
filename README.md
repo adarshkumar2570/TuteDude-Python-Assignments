@@ -1,4 +1,4 @@
-#Python Assignment – Module 2 (Basic Python Concepts)This repository contains two Python programs for Assignment 1 of Module 2.
+#Python Assignment 1– (Basic Python Concepts)This repository contains two Python programs for Assignment 1 of Module 2.
 
 📌 Task 1 – Basic Mathematical Operations (Task1.py)
 This program:
